@@ -5,7 +5,7 @@
 ![Personal Finance Dashboard_page-0005](https://github.com/SoumapriyoM/Personal-Finace-Dashboard/assets/103531896/35f42223-11e8-4256-a4f7-b1984e84e134)
 
 # Personal Finance Dashboard with Power BI
-Here see the dashboard
+[Here see the dashboard](https://iitmadraspod-my.sharepoint.com/:u:/g/personal/21f3001571_student_onlinedegree_iitm_ac_in/EfNdz9r3n81HqrVemetw_UwBSuJgOpLlsdYdkFMfrCVgwA?e=PqQEoE)
 ## Overview
 
 This repository contains a Power BI file for creating a personal finance dashboard. The Power BI file enables you to connect your financial data sources and visualize your financial situation. It provides insights into your income, expenses, budgeting, and financial goals, helping you make informed financial decisions.
